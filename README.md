@@ -1,7 +1,8 @@
-## 2024fastAPI
+# 2024fastAPI
 fastAPI를 이용한 붓꽃 분류 시스템, 영화 추천 시스템, 2024 1학기 캡스톤프로젝트
 
-### 붓꽃 분류 시스템
+## 붓꽃 분류 시스템
+개발환경
 annotated-types==0.6.0
 anyio==4.3.0
 click==8.1.7
@@ -28,7 +29,8 @@ tzdata==2024.1
 uvicorn==0.27.1
 
 
-### 영화 추천 시스템
+## 영화 추천 시스템
+개발환경
 annotated-types==0.6.0
 anyio==4.3.0
 certifi==2024.2.2
